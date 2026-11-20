@@ -1,0 +1,37 @@
+{
+  "fileFormat": 1,
+  "version": "3.4.0",
+  "date": "2026-11-20",
+  "notes": [
+    "Deckbuilder: a third label, ARC (archived), next to WIP and ACT – only a label, the deck stays in the list",
+    "Cubes have the labels too: WIP, ACT and ARC, with the filter and the switch in the editor",
+    "In each format, and in the cube list: ACT first, then WIP, then ARC, each A–Z by name"
+  ],
+  "page": "https://github.com/jacoviv/jacosbinder-updates/releases/tag/v3.4.0",
+  "files": {
+    "flatpak": {
+      "name": "jacosbinder-3.4.0.flatpak",
+      "url": "https://github.com/jacoviv/jacosbinder-updates/releases/download/v3.4.0/jacosbinder-3.4.0.flatpak",
+      "size": 4194424,
+      "sha256": "7f6ba575c16fd6a862a67ee194816cbf2e02427f8bfa29ccc3761196ae97fbd2"
+    },
+    "linux": {
+      "name": "jacosbinder-3.4.0-linux-amd64",
+      "url": "https://github.com/jacoviv/jacosbinder-updates/releases/download/v3.4.0/jacosbinder-3.4.0-linux-amd64",
+      "size": 13027184,
+      "sha256": "250872ba83d7b6871a06641dfda9f4500f3e0c9db6610c255c8f97618c0b16a8"
+    },
+    "windows-installer": {
+      "name": "jacosbinder-3.4.0-setup.exe",
+      "url": "https://github.com/jacoviv/jacosbinder-updates/releases/download/v3.4.0/jacosbinder-3.4.0-setup.exe",
+      "size": 4084122,
+      "sha256": "6a13bded01054b761b64c9d846f35c921c54d360e9acd2a8508210e792d3b0c1"
+    },
+    "windows-zip": {
+      "name": "jacosbinder-3.4.0-portable.zip",
+      "url": "https://github.com/jacoviv/jacosbinder-updates/releases/download/v3.4.0/jacosbinder-3.4.0-portable.zip",
+      "size": 5133787,
+      "sha256": "10e401ff362bbdb18a27a3bb4c794a583eda4e530d05489b4748223b84108594"
+    }
+  }
+}
